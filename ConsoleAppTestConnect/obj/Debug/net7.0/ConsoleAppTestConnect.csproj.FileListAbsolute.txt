@@ -1,0 +1,15 @@
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\bin\Debug\net7.0\ConsoleAppTestConnect.exe
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\bin\Debug\net7.0\ConsoleAppTestConnect.deps.json
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\bin\Debug\net7.0\ConsoleAppTestConnect.runtimeconfig.json
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\bin\Debug\net7.0\ConsoleAppTestConnect.dll
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\bin\Debug\net7.0\ConsoleAppTestConnect.pdb
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\obj\Debug\net7.0\ConsoleAppTestConnect.csproj.AssemblyReference.cache
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\obj\Debug\net7.0\ConsoleAppTestConnect.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\obj\Debug\net7.0\ConsoleAppTestConnect.AssemblyInfoInputs.cache
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\obj\Debug\net7.0\ConsoleAppTestConnect.AssemblyInfo.cs
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\obj\Debug\net7.0\ConsoleAppTestConnect.csproj.CoreCompileInputs.cache
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\obj\Debug\net7.0\ConsoleAppTestConnect.dll
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\obj\Debug\net7.0\refint\ConsoleAppTestConnect.dll
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\obj\Debug\net7.0\ConsoleAppTestConnect.pdb
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\obj\Debug\net7.0\ConsoleAppTestConnect.genruntimeconfig.cache
+D:\TAI_LIEU_HOC_TAP\ProjectCSharp\ConsoleAppTestConnect\obj\Debug\net7.0\ref\ConsoleAppTestConnect.dll
